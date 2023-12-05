@@ -31,9 +31,9 @@ login the page by user id &password
     body   :Detail about company
     
 
-         ![Screenshot (1)](https://github.com/MAARS1/html-webpage-login-register-homepage-/assets/124117048/5c44ccd5-58d1-4e9d-a42e-3cf7b5566455)
 
-
+![Screenshot (1)](https://github.com/MAARS1/html-webpage-login-register-homepage-/assets/124117048/3093ab71-fc77-41af-ace0-5f81e90f601e)
+this home
 
 
 
