@@ -1,8 +1,9 @@
 # html-webpage-login-register-homepage-
 Problem Statement: Design the Website for software company which contain Home page,login page,register page ect
 
-Usingn HTML code make the structur of the login page
-    Requirement for login page
+Usingn HTML code make the structur of the login page 
+    **login page**
+      Requirement
        *user id 
        *password
 if user id is forgotten click **forgot_user_id**
